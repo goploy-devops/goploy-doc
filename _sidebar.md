@@ -2,6 +2,10 @@
 * [快速启动](start/index.md)
 * [权限模型](permission/index.md)
 * [构建流程](deploy/index.md)
+* 项目设置
+  * [php](project/php.md)
+  * [web](project/web.md)
+  * [go](project/go.md)
 * [服务器Agent](server/index.md)
 * 依赖介绍
   * [rysnc](dependency/rsync.md)

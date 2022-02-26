@@ -1,0 +1,11 @@
+{
+  "name": "goploy-doc",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "docsify serve"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
