@@ -1,5 +1,28 @@
 # change log
 
+## 1.4.7
+
+*2022-02-24*
+### New features
+- support deploy ftp & sftp
+
+### Optimization
+- script setup SFCs
+- migrate docs to goploy-devops/goploy-doc
+
+### Bug fixed
+- sftp file upload
+
+## 1.4.6
+
+*2022-02-24*
+### New features
+- web log
+- sftp file preview
+
+### Bug fixed
+- web cookies undefined 
+
 ## 1.4.5
 
 *2022-01-26*
