@@ -1,7 +1,9 @@
 
 * [Start](en/start/index.md)
 * [Permission](en/permission/index.md)
-* [Server Agent](en/server/index.md)
+* Server
+  * [import csv](en/server/import.md)
+  * [agent](en/server/agent.md)
 * Dependency
   * [Notify](en/dependency/notice.md)
   * [Rsync](en/dependency/rsync.md)

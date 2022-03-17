@@ -6,7 +6,9 @@
   * [php](project/php.md)
   * [web](project/web.md)
   * [go](project/go.md)
-* [服务器Agent](server/index.md)
+* 服务器
+  * [import csv](server/import.md)
+  * [agent](server/agent.md)
 * 依赖介绍
   * [rysnc](dependency/rsync.md)
   * [构建通知](dependency/notice.md)
