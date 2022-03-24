@@ -1,8 +1,28 @@
 # change log
 
+## 1.5.0
+
+*2022-03-24*
+### New features
+- detect project name is link
+- import csv in server page
+- install agent in server page
+
+### Optimization
+- update element-plus to 2.0
+- goploy-agent check sign
+- project dialog modify server and user
+- file sync move to deploy page
+
+### Bug fixed
+- fix vue3 SFCs ref undefined
+- fix cron task date popover
+- fix publish detail filter popover
+- fix namespace add user
+
 ## 1.4.7
 
-*2022-02-24*
+*2022-03-14*
 ### New features
 - support deploy ftp & sftp
 
