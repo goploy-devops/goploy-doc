@@ -2,6 +2,14 @@
 
 ## 1.5.0
 
+## 1.6.0
+
+*2022-04-11*
+### New features
+- RBAC
+
+## 1.5.0
+
 *2022-03-24*
 ### New features
 - detect project name is link
