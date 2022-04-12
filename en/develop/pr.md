@@ -8,7 +8,7 @@ Code style:
 commit：
 When committing code, the commit message should follow the following format:
 
-`<Commit type> <commit description>`
+`<commit type> <commit description>`
 
 commit type：
 

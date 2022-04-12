@@ -8,7 +8,7 @@
 commit：
 在 commit 代码时，commit message 请遵循以下格式：
 
-`<Commit 类型> <commit 描述>`
+`<commit 类型> <commit 描述>`
 
 commit 类型可以是：
 

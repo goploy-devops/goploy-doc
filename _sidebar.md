@@ -7,6 +7,7 @@
   * [web](project/web.md)
   * [go](project/go.md)
 * 服务器
+  * [ssh](server/ssh.md)
   * [import csv](server/import.md)
   * [agent](server/agent.md)
 * 依赖介绍
