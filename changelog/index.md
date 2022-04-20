@@ -1,4 +1,11 @@
 # change log
+
+## 1.6.1
+
+*2022-04-20*
+### New features
+- Support password login ssh (only work in linux)
+
 ## 1.6.0
 
 *2022-04-11*
