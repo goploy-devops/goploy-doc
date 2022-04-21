@@ -6,6 +6,9 @@
 ### New features
 - Support password login ssh (only work in linux)
 
+### Bug fixed
+- fix web script editor
+
 ## 1.6.0
 
 *2022-04-11*
