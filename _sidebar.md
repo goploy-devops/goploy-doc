@@ -10,6 +10,7 @@
   * [ssh](server/ssh.md)
   * [import csv](server/import.md)
   * [agent](server/agent.md)
+* [监控中心](monitor/index.md)
 * 依赖介绍
   * [rysnc](dependency/rsync.md)
   * [构建通知](dependency/notice.md)
