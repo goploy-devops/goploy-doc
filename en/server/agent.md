@@ -10,7 +10,7 @@ Run [goploy-agent](https://github.com/zhenorzz/goploy-agent) in target server.
 ## Target illustrate
 
 - CPU usage rate: /proc/stat add all columns and minis the 4th column
-- RAM usage rate: /proc/meminfo Memfree/MemTotal
+- RAM usage rate: /proc/meminfo (MemTotal - (MemAvailable > 0 ? MemAvailable : MemFree))/MemTotal 
 - Loadavg:  /proc/loadavg 
 - TCP: /proc/net/tcp established、total
 - Public network bandwidth: /proc/net/dev collect the 1st(in) and 9th(out) column the eth column
