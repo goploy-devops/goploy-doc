@@ -10,7 +10,7 @@ goploy添加目标机器，获取服务器ID
 ## 指标计算方式
 
 - CPU使用率: /proc/stat 所有列加起来减去第四列（空闲时间）
-- RAM使用率: /proc/meminfo Memfree/MemTotal
+- RAM使用率: /proc/meminfo (MemTotal - (MemAvailable > 0 ? MemAvailable : MemFree)) / MemTotal 
 - Loadavg:  /proc/loadavg 
 - TCP: /proc/net/tcp 统计established和total
 - 外网带宽: /proc/net/dev 周期性采集第0列(eth)的第1列(in)和第9列(out)
