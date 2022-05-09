@@ -1,5 +1,16 @@
 # change log
 
+## 1.7.1
+
+*2022-05-09*
+### Optimization
+- show server on edit monitor item
+
+### Bug fixed
+- fix ace editor not found
+- fix monitor nil pointer
+
+
 ## 1.7.0
 
 *2022-04-29*
