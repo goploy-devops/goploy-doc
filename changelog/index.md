@@ -1,5 +1,11 @@
 # change log
 
+## 1.8.0
+
+*2022-05-13*
+### New features
+- Support sftp transfer files
+
 ## 1.7.1
 
 *2022-05-09*

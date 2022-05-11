@@ -13,6 +13,7 @@
 * [监控中心](monitor/index.md)
 * 依赖介绍
   * [rysnc](dependency/rsync.md)
+  * [sftp](dependency/stfp.md)
   * [构建通知](dependency/notice.md)
   * [ldap](dependency/ldap.md)
 * 参与开发

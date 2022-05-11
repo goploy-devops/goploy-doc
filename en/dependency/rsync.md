@@ -1,5 +1,5 @@
 # rsync
-
+rsync -- a fast, versatile, remote (and local) file-copying tool
 
 ## Grammar
 
@@ -14,3 +14,5 @@ rsync [OPTION]... rsync://[USER@]HOST[:PORT]/SRC [DEST]
 
 ## Notice
 Goploy will automatically fill SRC and DES
+
+[rsync man page](https://linux.die.net/man/1/rsync)
