@@ -5,6 +5,10 @@
 *2022-05-13*
 ### New features
 - Support sftp transfer files
+- Show deploy detail in realtime
+
+### Bug fixed
+- fix deploy list remove item failed
 
 ## 1.7.1
 
