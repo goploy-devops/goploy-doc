@@ -9,6 +9,7 @@
 
 ### Bug fixed
 - fix deploy list remove item failed
+- fix ftp login anonymous
 
 ## 1.7.1
 
