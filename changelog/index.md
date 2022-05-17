@@ -2,7 +2,7 @@
 
 ## 1.8.0
 
-*2022-05-13*
+*2022-05-17*
 ### New features
 - Support sftp transfer files
 - Show deploy detail in realtime
