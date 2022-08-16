@@ -1,5 +1,31 @@
 # change log
 
+## 1.9.1
+
+*2022-08-16*
+### Bug fixed
+- Fix dockerfile
+- Fix bat newline
+- Fix sftp dropdown
+
+## 1.9.0
+
+*2022-07-11*
+### New features
+- Dark mode
+
+### Optimization
+- Sidebar 
+
+## 1.8.1
+
+*2022-07-02*
+### New features
+- Support after deploy script replace commit info
+
+### Bug fixed
+- Fix svn commit list
+
 ## 1.8.0
 
 *2022-05-17*

@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="assets/banner.png" alt="logo" title="logo" />
+    <img src="assets/logo.png" alt="logo" title="logo" />
 </p>
 
 <p align="center">
@@ -35,8 +35,7 @@
 
 ## 相关仓库
 
-- [gin](https://github.com/codegangsta/gin) - GO hot reload。
-- [element-ui](https://github.com/ElemeFE/element) - 前端UI样式。
+- [element-plus](https://element-plus.gitee.io/) - 前端UI样式。
 
 ## 如何贡献
 
@@ -55,7 +54,7 @@
   <img src="https://www.goploy.icu/alipay.png" width="209">
 </p>
 
-企业二次定制，联系QQ群主。
+企业二次定制，企业运维部署，联系QQ群主。
 ## 使用许可
 
-[MIT](../LICENSE) © zhenorzz
+[GPLv3](../LICENSE) © zhenorzz

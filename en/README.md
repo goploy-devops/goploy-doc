@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="assets/banner.png" alt="logo" title="logo" />
+    <img src="assets/logo.png" alt="logo" title="logo" />
 </p>
 
 <p align="center">
@@ -31,8 +31,7 @@ Although most popular publishing tools are powerful, they are cumbersome to conf
 
 ## Repository
 
-- [gin](https://github.com/codegangsta/gin) - GO hot reload。
-- [element-ui](https://github.com/ElemeFE/element) - UI。
+- [element-plus](https://element-plus.gitee.io/) - UI.
 
 ## Contribute
 
@@ -42,4 +41,4 @@ Create a pull request.
 
 ## License
 
-[MIT](../../LICENSE) © zhenorzz
+[GPLv3](../../LICENSE) © zhenorzz
