@@ -14,6 +14,7 @@
 * 依赖介绍
   * [rysnc](dependency/rsync.md)
   * [sftp](dependency/sftp.md)
+  * [custom](dependency/custom.md)
   * [构建通知](dependency/notice.md)
   * [ldap](dependency/ldap.md)
 * 参与开发
