@@ -8,6 +8,7 @@
   * [Notify](en/dependency/notice.md)
   * [Rsync](en/dependency/rsync.md)
   * [SFTP](en/dependency/sftp.md)
+  * [CUSTOM](en/dependency/custom.md)
   * [LDAP](en/dependency/ldap.md)
 * Join Us
   * [PR](en/develop/pr.md)
