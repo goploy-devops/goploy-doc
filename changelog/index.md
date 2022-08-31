@@ -1,5 +1,16 @@
 # change log
 
+## 1.10.0
+
+*2022-08-31*
+### New features
+- Server process manager
+- Customize project transfer protocol
+
+### Optimization
+- Tag view UI
+- Support more predefined vars
+
 ## 1.9.1
 
 *2022-08-16*
