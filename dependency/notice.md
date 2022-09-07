@@ -1,9 +1,15 @@
 # 构建通知
 
+## 参考代码
+[Goploy notify](https://github.com/zhenorzz/goploy/blob/d6ba8d5d7040086757ae363ad6b89206a610b78d/service/SyncService.go#L363)
+
 ## 第三方软件
 - [钉钉](https://developers.dingtalk.com/document/app/message-types-and-data-format)
 - [企业微信](https://open.work.weixin.qq.com/api/doc/90000/90135/90236)
 - [飞书](https://www.feishu.cn/hc/zh-CN/articles/360024984973-%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%A6%82%E4%BD%95%E5%9C%A8%E7%BE%A4%E8%81%8A%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA-)
+
+### 关键字
+ `ServerList`
 
 ## 自定义
 
@@ -20,6 +26,7 @@
         "projectName": "string",
         "Publisher": "string",
         "Branch": "string",
+        "Tag": "string"
         "CommitSHA": "string",
         "CommitMessage": "string",
         "ServerList": "string",

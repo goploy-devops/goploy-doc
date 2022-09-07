@@ -9,5 +9,5 @@
 4. npm run dev
 
 # 框架
-- VUE
-- [Element-UI](https://element.eleme.cn/)
+- [VUE3](https://cn.vuejs.org/)
+- [Element-Plus](https://element-plus.gitee.io/zh-CN/)
