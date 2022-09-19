@@ -2,6 +2,8 @@
 使用系统支持的命令，记得把部署后脚本传到目标服务器
 ```
   cmd := exec.Command("传输选项")
+  // PowerShell -c "scp -r ${REPOSITORY_PATH} ${SERVER_OWNER}@${SERVER_IP}:${PROJECT_PATH}/"
+  // /bin/sh -c "scp -r ${REPOSITORY_PATH} ${SERVER_OWNER}@${SERVER_IP}:${PROJECT_PATH}/"
 ```
 
 ## 预定义变量
@@ -16,7 +18,7 @@ ${REPOSITORY_TYPE}=         project.RepoType
 ${REPOSITORY_URL}=          project.URL
 ${REPOSITORY_PATH}=         core.GetProjectPath(project.ID)
 ${REPOSITORY_PATH}=         core.GetProjectPath(project.ID)
-${AFTER_DEPLOY_FILENAME}"=  goploy-after-deploy-p${PROJECT_ID}-s${SERVER_ID}
+${AFTER_DEPLOY_FILENAME}=  goploy-after-deploy-p${PROJECT_ID}-s${SERVER_ID}
 ${PUBLISH_TOKEN}=           project.LastPublishToken
 ${SERVER_ID}=               strconv.FormatInt(server.ServerID, 10)
 ${SERVER_NAME}=             server.ServerName

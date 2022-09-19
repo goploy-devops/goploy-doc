@@ -9,5 +9,5 @@
 4. npm run dev
 
 # Frame
-- VUE
-- [Element-UI](https://element.eleme.cn/)
+- VUE3
+- [Element-Plus](https://element-plus.gitee.io/)

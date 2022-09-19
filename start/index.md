@@ -10,7 +10,7 @@
 - Git >= 2.10
 - MySQL >= 5.7
 - MySQL客户端
-- Rsync(linux mac自带，windows需要安装[cwRsync](https://www.itefix.net/cwrsync))
+- 推荐安装Rsync(linux mac自带，windows需要安装[cwRsync](https://www.itefix.net/cwrsync))
 
 # 安装 Goploy
 

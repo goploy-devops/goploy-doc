@@ -7,5 +7,5 @@
 
 # 启动
 
-- 打包前端文件
-- go run main.go
+- cd web && npm install && npm run build
+- go run main.go --asset-dir=./

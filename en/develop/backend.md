@@ -4,10 +4,8 @@
 
 - go>=1.16
 - MySQL>=5.7
-- Rsync
 
 # Start
 
-- edit .env ENV=dev
-- go run main.go
-- gin(Hot reload)
+- cd web && npm install && npm run build
+- go run main.go --asset-dir=./

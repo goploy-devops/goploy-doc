@@ -1,5 +1,16 @@
 # change log
 
+## 1.11.0
+
+*2022-09-19*
+### New features
+- Notify tag after deploy
+- Operation log
+- serial/parallel publish to server
+
+### Bug fixed
+- Fix after deploy script
+
 ## 1.10.0
 
 *2022-08-31*

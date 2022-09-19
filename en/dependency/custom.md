@@ -2,6 +2,8 @@
 
 ```
   cmd := exec.Command("transfer option")
+  // PowerShell -c "scp -r ${REPOSITORY_PATH} ${SERVER_OWNER}@${SERVER_IP}:${PROJECT_PATH}/"
+  // /bin/sh -c "scp -r ${REPOSITORY_PATH} ${SERVER_OWNER}@${SERVER_IP}:${PROJECT_PATH}/"
 ```
 
 ## Predefined variables
@@ -15,6 +17,7 @@ ${PROJECT_BRANCH}=       project.Branch
 ${REPOSITORY_TYPE}=      project.RepoType
 ${REPOSITORY_URL}=       project.URL
 ${REPOSITORY_PATH}=      core.GetProjectPath(project.ID)
+${AFTER_DEPLOY_FILENAME}=goploy-after-deploy-p${PROJECT_ID}-s${SERVER_ID}
 ${PUBLISH_TOKEN}=        project.LastPublishToken
 ${SERVER_ID}=            strconv.FormatInt(server.ServerID, 10)
 ${SERVER_NAME}=          server.ServerName
