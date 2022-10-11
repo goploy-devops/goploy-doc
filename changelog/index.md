@@ -1,5 +1,19 @@
 # change log
 
+## 1.12.0
+
+*2022-10-11*
+### New features
+- Third login
+- Transfer file across server
+
+### Optimization
+- SFTP support mutiple server
+- Server process manage
+
+### Bug fixed
+- Xterm disconnect before unmount
+
 ## 1.11.0
 
 *2022-09-19*

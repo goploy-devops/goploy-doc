@@ -1,5 +1,6 @@
 
 * [快速启动](start/index.md)
+* [通用登录](extlogin/index.md)
 * [权限模型](permission/index.md)
 * [构建流程](deploy/index.md)
 * 项目设置
