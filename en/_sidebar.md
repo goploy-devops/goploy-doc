@@ -1,6 +1,6 @@
 
 * [Start](en/start/index.md)
-* [Third part login](extlogin/index.md)
+* [Third part login](en/extlogin/index.md)
 * [Permission](en/permission/index.md)
 * Server
   * [Import csv](en/server/import.md)
