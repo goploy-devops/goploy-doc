@@ -1,5 +1,49 @@
 # change log
 
+## 1.13.0
+
+*2023-03-03*
+### New features
+- Batch execute script
+
+### Optimization
+- Show server name in monitor table
+
+### Bug fixed
+- Navbar dark mode
+- Windows ssh connect
+
+## 1.12.3
+
+*2023-02-03*
+### Optimization
+- Adjust commit list table column
+- Refactor code
+- Update Server process list UI
+
+### Bug fixed
+- Server process output newline
+
+## 1.12.2
+
+*2022-11-02*
+### Optimization
+- Support delete file via sftp
+
+### Bug fixed
+- Key column 'server_id' doesn't exist in table
+
+
+## 1.12.1
+
+*2022-10-22*
+### Optimization
+- Support double click for sftp directory
+- Update package.json
+
+### Bug fixed
+- Translation
+- Dark mode
 ## 1.12.0
 
 *2022-10-11*
