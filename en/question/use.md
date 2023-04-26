@@ -14,3 +14,7 @@
 
 - If the command was installed after the goploy started, need to restart goploy
 - If not, try the absolute path or source /etc/profile
+
+# Failed to exec sshpass: No such file or directrory
+
+ - google: install sshpass

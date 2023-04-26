@@ -27,3 +27,7 @@
 
 - 检查key是否正确
 - 在链接上输入账号密码，遇到 @ 需要用 %40 代替
+
+# Failed to exec sshpass: No such file or directrory
+
+ - google: install sshpass

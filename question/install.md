@@ -1,5 +1,13 @@
 # 安装问题
 
+# Pattern dist: no matching files found
+
+```bash
+cd ./web
+npm install
+npm run build
+```
+
 # panic: Error 1071: Specified key was too long;max key length is 767 bytes
 
 需要升级数据库版本 MySQL >= 5.7

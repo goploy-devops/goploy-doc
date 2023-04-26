@@ -1,5 +1,13 @@
 # Installation problem
 
+# Pattern dist: no matching files found
+
+```bash
+cd ./web
+npm install
+npm run build
+```
+
 # Error during Websocket handshake
 
 The reason is that the reverse proxy settings are incorrect
