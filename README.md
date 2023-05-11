@@ -45,16 +45,12 @@
 
 提交一个 Pull Request.
 
-## 捐赠
+## 服务
 
-如果你觉得这个项目帮助到了你，你可以请作者喝一杯奶茶表示鼓励 🥛
+￥388 作者亲自远程部署，打通服务器，搭建项目，编写脚本。
 
-<p>
-  <img src="https://www.goploy.icu/weixin.png" width="200">
-  <img src="https://www.goploy.icu/alipay.png" width="209">
-</p>
+不想看文档，怕麻烦，一劳永逸，可加v：zhenorzz, 备注【远程】。
 
-企业二次定制，企业运维部署，联系QQ群主。
 ## 使用许可
 
 [GPLv3](../LICENSE) © zhenorzz
