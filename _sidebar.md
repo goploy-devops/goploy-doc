@@ -3,6 +3,7 @@
 * [通用登录](extlogin/index.md)
 * [权限模型](permission/index.md)
 * [构建流程](deploy/index.md)
+* [目录设计](structure/index.md)
 * 项目设置
   * [php](project/php.md)
   * [web](project/web.md)
