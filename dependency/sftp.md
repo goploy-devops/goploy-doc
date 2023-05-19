@@ -15,6 +15,7 @@ Goploy会在程序中自动拼接SRC和DES
 
 ```
 -v 详细模式输出
+--delefe 删除所有文件
 --exclude=FILE 指定排除不需要传输的文件
 --include=FILE 指定不排除而需要传输的文件
 --exclude-regexp=REGEXP 排除正则表达式中匹配的文件

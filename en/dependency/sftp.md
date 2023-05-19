@@ -14,6 +14,7 @@ Goploy will automatically fill SRC and DES
 
 ```
 -v increase verbosity.
+--delefe delete files.
 --exclude=PATTERN exclude file equal to PATTERN.
 --exclude-regexp=REGEXP exclude files matching PATTERN.
 --include=PATTERN don't exclude file equal to PATTERN.
