@@ -1,5 +1,34 @@
 # change log
 
+## 1.14.0
+
+*2023-05-25*
+### New features
+- Horizontal sidebar
+- [Support monitor execute script #51](https://github.com/zhenorzz/goploy/pull/51)
+- [Support project tag #51](https://github.com/zhenorzz/goploy/pull/51)
+- [Add nginx manage #52](https://github.com/zhenorzz/goploy/pull/52)
+- Support sftp copy rename edit file
+
+### Optimization
+- Add app version in login page
+- Optimize code
+
+### Bug fixed
+- [Jump server #54](https://github.com/zhenorzz/goploy/pull/54)
+- Ping db after open connection
+- Fix page css
+
+## 1.13.1
+
+*2023-04-29*
+### Bug fixed
+- Fix windows mkdir
+- Refresh file sync project list 
+- [Fix check monitor config](https://github.com/zhenorzz/goploy/commit/dae371d96cbf241c4dbf9776c48dc1611e4dcff1)
+- [Support sftp --delete option](https://github.com/zhenorzz/goploy/commit/5a0092412151212cab4adc8ca3d589eddb279645)
+- [Fix monitor can not redo the task](https://github.com/zhenorzz/goploy/commit/4db5bd6f7bcfa4e647d923d10a59504548408e37)
+
 ## 1.13.0
 
 *2023-03-03*
