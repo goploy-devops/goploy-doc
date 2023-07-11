@@ -7,7 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="//fastly.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 </head>
 <body>
   <div id="app"></div>
@@ -20,15 +20,21 @@
       maxLevel: 2,
       subMaxLevel: 3,
       search: {
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        maxAge: 86400000,
         paths: 'auto',
-        placeholder: '快速搜索',
+        placeholder: 'Click here to search',
         noData: 'No Results!',
-        depth: 6          // 搜索标题的最大程级, 1 - 6
+        depth: 6
+      },
+      alias: {
+        '/en/.*/_sidebar.md': '/en/_sidebar.md',
+        '^(?!/en).*/.*/_sidebar.md': '/_sidebar.md',
+        '/en/.*/_navbar.md': '/en/_navbar.md',
+        '^(?!/en).*/.*/_navbar.md': '/_navbar.md',
       }
     }
   </script>
-  <script src="//fastly.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//fastly.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
