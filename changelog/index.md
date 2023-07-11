@@ -1,5 +1,20 @@
 # change log
 
+## 1.15.0
+
+*2023-06-28*
+### New features
+- [lark & dingtalk login #55](https://github.com/zhenorzz/goploy/pull/55)
+- support deploy finish script
+- deploy project animation
+
+### Optimization
+- [sftp open / after connected](https://github.com/zhenorzz/goploy/commit/d041f9e13ba756453216f74867c7af3b27ae3534)
+- [load namespace list when the page opened](https://github.com/zhenorzz/goploy/commit/d171343857356ab2f55db07e96a7004f1d2fe30a)
+
+### Bug fixed
+- [fix missing project name in lark notify](https://github.com/zhenorzz/goploy/commit/0372c2e9b8542fb7e434a07b9a909fd52d60e58f)
+
 ## 1.14.0
 
 *2023-05-25*

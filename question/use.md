@@ -31,3 +31,9 @@
 # Failed to exec sshpass: No such file or directrory
 
  - google: install sshpass
+
+# rsync: command not found
+ - google: install rsync
+
+# unknown option `sort=-commiterdate' usage
+ - 升级 git 到最新版

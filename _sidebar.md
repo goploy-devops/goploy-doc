@@ -1,6 +1,9 @@
 
 * [快速启动](start/index.md)
-* [通用登录](extlogin/index.md)
+* 第三方登录
+  * [钉钉](extlogin/dingtalk.md)
+  * [飞书](extlogin/lark.md)
+  * [通用](extlogin/common.md)
 * [权限模型](permission/index.md)
 * [构建流程](deploy/index.md)
 * [目录设计](structure/index.md)
