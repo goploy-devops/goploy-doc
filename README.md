@@ -28,7 +28,9 @@
 
 [Dockerfile](https://github.com/zhenorzz/goploy/blob/master/docker/Dockerfile)
 
-[Goploy-Agent](https://github.com/zhenorzz/goploy-agent) Monitor server performance
+[Goploy-Agent](https://github.com/zhenorzz/goploy-agent) 监控服务器性能
+
+[Goploy-Vscode](https://github.com/goploy-devops/goploy-vscode) 在vscode插件市场搜索Goploy
 
 ## 背景
 大部分流行的发布工具功能虽然强大，但是配置较为麻烦，上手难度大，中小型项目难以使用。

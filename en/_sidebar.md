@@ -18,4 +18,4 @@
 * Question
   * [Install](en/question/install.md)
   * [Use](en/question/use.md)
-* [Change log](changelog/index.md)
+* [Change log](https://github.com/zhenorzz/goploy/blob/master/CHANGELOG.md)
