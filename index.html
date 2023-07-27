@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify-plugin-adsense@1/index.min.js"></script>
 </head>
 <body>
   <div id="app"></div>
@@ -31,7 +32,11 @@
         '^(?!/en).*/.*/_sidebar.md': '/_sidebar.md',
         '/en/.*/_navbar.md': '/en/_navbar.md',
         '^(?!/en).*/.*/_navbar.md': '/_navbar.md',
-      }
+      },
+      plugins: [
+        // Change to your adsense ca-pub-xxxx
+        DocsifyAds.create('ca-pub-4293278087859480')
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
