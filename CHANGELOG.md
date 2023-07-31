@@ -1,0 +1,1 @@
+[CHANGELOG](https://raw.githubusercontent.com/zhenorzz/goploy/master/CHANGELOG.md ':include')
