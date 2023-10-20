@@ -12,10 +12,12 @@ When committing code, the commit message should follow the following format:
 
 commit type：
 
-- A for add (A add some kind of function)
-- U for update (示例 U update function)
-- D for delete (示例 D delete no unused function)
-- F for fix
+- Added for new features.
+- Changed for changes in existing functionality.
+- Deprecated for soon-to-be removed features.
+- Removed for now removed features.
+- Fixed for any bug fixes.
+- Security in case of vulnerabilities.
 
 I believe that after reading, you will be able to "make contributions" to Goploy。😀
 
